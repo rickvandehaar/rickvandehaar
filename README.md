@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://www.rhsagency.nl"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/button-website-dark.svg"><img src="./assets/button-website-light.svg" height="44" alt="rhsagency.nl"></picture></a>
   &nbsp;
-  <a href="https://github.com/rhsagency/rhs-ui"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/button-rhs-ui-dark.svg"><img src="./assets/button-rhs-ui-light.svg" height="44" alt="RHS UI on GitHub"></picture></a>
+  <a href="https://rhsui.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/button-rhs-ui-dark.svg"><img src="./assets/button-rhs-ui-light.svg" height="44" alt="rhsui.com"></picture></a>
 </p>
 
 <h3 align="center">About</h3>
@@ -21,7 +21,7 @@
 <h3 align="center">What I'm building</h3>
 
 <p align="center">
-  <a href="https://github.com/rhsagency/rhs-ui"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-rhs-ui-dark.svg"><img src="./assets/project-rhs-ui-light.svg" width="49%" alt="RHS UI: components, blocks and icons for React and Next.js. Installs with the shadcn CLI. Open source, MIT."></picture></a>
+  <a href="https://rhsui.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-rhs-ui-dark.svg"><img src="./assets/project-rhs-ui-light.svg" width="49%" alt="RHS UI: components, blocks and icons for React and Next.js. Installs with the shadcn CLI. Open source, MIT."></picture></a>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/project-rhs-command-dark.svg">
     <img src="./assets/project-rhs-command-light.svg" width="49%" alt="RHS Command: the desktop control plane for my Claude Code and Codex sessions, with an iOS companion. Private.">

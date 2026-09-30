@@ -399,7 +399,7 @@ for (const t of Object.values(themes)) {
   for (const p of projects) write(out(`project-${p.id}`, t), project(p, t));
   write(out('stack', t), stackCard(t));
   write(out('button-website', t), button('rhsagency.nl', 'arrow', t, 'website'));
-  write(out('button-rhs-ui', t), button('RHS UI on GitHub', 'arrow', t, 'rhsui'));
+  write(out('button-rhs-ui', t), button('rhsui.com', 'arrow', t, 'rhsui'));
   write(out('footer', t), footer(t));
 }
 console.log('built assets for', Object.keys(themes).join(' + '));
